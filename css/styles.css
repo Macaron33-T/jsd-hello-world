@@ -332,7 +332,7 @@ body {
   background-image: url("../images/participant-photo.png");
 }
 #participant-17 .participant-name::before {
-  /* content: "Your Name Here"; */
+  content: "17_KROEKPOL";
 }
 #participant-17 .participant-quote::before {
   /* content: "Your inspirational quote here." */
