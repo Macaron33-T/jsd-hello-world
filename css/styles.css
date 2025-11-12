@@ -763,7 +763,8 @@ body {
   background-image: url("../images/participant-photo.png");
 }
 #participant-35 .participant-name::before {
-  content: "35_Rungarun (Mameaw)";
+  font-size: 13px;
+  content: "35_Rungarun\00A0(Mameaw)";
 }
 #participant-35 .participant-quote::before {
   /* content: "Your inspirational quote here." */
